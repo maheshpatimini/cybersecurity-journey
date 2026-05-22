@@ -5,8 +5,8 @@
 
 ## What I Did
 - Download a free practice PCAP from: https://cloudshark.io/captures 
-- Applied dns filter
-- 
+- Analyzed a pcap file with dns filter
+
 ## What I Found
 
 ### ICMP Analysis (icmpreq.pcapng)
