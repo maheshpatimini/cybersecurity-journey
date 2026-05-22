@@ -1,7 +1,7 @@
 # Wireshark Analysis — Day 1
 
 ## Date
-May 2026
+ 23 May 2026
 
 ## What I Did
 - Captured live Wi-Fi traffic using Wireshark
